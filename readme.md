@@ -17,3 +17,8 @@ Laravel regelt al de vereiste security checks: Data wordt geescaped voordat het 
 Laravel regelt zelf ook al CSRF (cross site request forgery) dmv middleware. In het formulier zit een entry {{ csrf_field() }} die dit regelt. Zonder deze toevoeging zou een submit/post request niet verder komen en een 419 teruggeven.
 
 Volgende stap: styling!
+
+----------
+
+13:30:
+Styling is af. Project is klaar voor poging uploaden op grunndesign!
