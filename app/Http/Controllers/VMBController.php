@@ -12,7 +12,7 @@ class VMBController extends Controller
         $deelnemers = Vrijmibo::all();
 
 
-        return view('welcome', compact('deelnemers'));
+        return view('index', compact('deelnemers'));
     }
 
     public function create() {

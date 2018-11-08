@@ -1,5 +1,6 @@
 body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('/Images/vmb-background.jpeg');
+    font-family: 'Merriweather', serif;
 }
 
 .signup-form {
@@ -39,7 +40,7 @@ a {
 
 .signup-container {
     background-color: rgb(172, 5, 14);
-    width: 6em;
+    width: 8em;
     margin: 0 auto;
     margin-bottom: 2%;
     border-radius:10px;
